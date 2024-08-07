@@ -1,0 +1,83 @@
+* {
+    background-color: rgb(214, 171, 215);
+}
+
+#título {
+    text-align: center;
+    color: darkorchid;
+    font-size: 250%;
+    margin-bottom: 20%;
+    margin-top: 10%;
+}
+
+.imagen {
+    border-color: black;
+    border-radius: 3pt;
+    border-style: solid;
+    width: 420px;
+    height: 280px;
+}
+
+p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:italic;
+    font-size: 1.2em;
+}
+
+
+img#img1 {
+    float: right;
+    margin-left: 5em;
+}
+
+div > h2 {
+    font-size: 2em;
+}
+
+.presentacion {
+    margin: 150px auto;
+    width: 70%;
+    display: flex;
+    text-align: center;
+}
+
+div.presentacion {
+    text-align: center;
+}
+
+.desarrollador {
+    text-align: center;
+    margin-bottom: 20%;
+}
+
+div.desarrollador h2 {
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+
+div.desarrollador p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.desarrollador span {
+    font-weight:bold ;
+}
+
+.contenedor1, .contenedor2, .contenedor3 {
+    display: inline-block;
+    vertical-align: top;
+    width: 430px;
+    height: 430px;
+}
+
+#despedida {
+    text-align: center;
+    text-decoration: wavy underline;
+    text-decoration-color: blueviolet;
+    margin-bottom: 5%;
+}
+
+#contacto {
+    text-align: center;
+}
+
